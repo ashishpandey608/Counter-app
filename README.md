@@ -1,10 +1,10 @@
 # Getting Started with Create React App
+Counter App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
-
-In the project directory, you can run:
+✅ Prevent decrementing below 0
+✅ Change count color dynamically
+✅ Disable increment if count reaches 10
+✅ Persist count in localStorage 
 
 ### `npm start`
 
