@@ -23,7 +23,7 @@ return (
 );
 };
 
-// ✅ Add the missing styles object
+//  Add the missing styles object
 const styles = {
     container: {
       border: "1px black ",
